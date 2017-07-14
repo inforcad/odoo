@@ -13,6 +13,7 @@
 # subclassing the Command object
 #
 #----------------------------------------------------------
+# versión especial de Odoo creada por INFORCAD
 import os
 import re
 import sys
